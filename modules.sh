@@ -27,6 +27,5 @@ case $choice in
   1) sudo apt install pipx ;;
   2) pipx install requests ;;
   3) pipx install colorama ;;
-
   *) echo "Geçersiz seçim!" ;;
 esac
