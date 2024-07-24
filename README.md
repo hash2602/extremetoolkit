@@ -33,4 +33,4 @@ chmod +x bash.sh
 bash main.sh
 ```
 
-NOTE: JUST USE FOR ETHICAL USES
+NOTE: JUST USE FOR ETHICAL ISSUES
