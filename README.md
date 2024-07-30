@@ -18,6 +18,9 @@ Fast and Quick Sqlmap
 # WORMGPT
 Use wormgpt with this tool
 
+# AIREPLAY-NG
+Fast and Quick NG Tools
+
 # HOW TO DOWNLOAD
 
 ```
