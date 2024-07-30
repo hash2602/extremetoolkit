@@ -22,3 +22,17 @@ case $choice in
     1)
         nmap $ip
         ;;
+    2)
+        nmap -sV $ip
+        ;;
+    3)
+        nmap -O $ip
+        ;;
+    4)
+        read -p "Tarayacağınız port aralığını girin (örn: 20-80): " ports
+        nmap -p $ports $ip
+        ;;
+    *)
+        echo "Geçersiz seçenek. Lütfen 1, 2, 3 veya 4 giriniz."
+        ;;
+esac
