@@ -9,7 +9,7 @@ MADE BY HASH2602, DREAMTECH
 """
 echo "1) DOWNLOAD MODULES"
 echo "2) DTI-MULTI-ATTACK"
-echo "3) PORT-SCANNER"
+echo "3) QUICKNMAP"
 echo "4) KALI-TOOLS"
 echo "5) FAST AND AUTO SQLMAP"
 echo "6) WORMGPT"
@@ -24,7 +24,7 @@ case $option in
         python3 dti-ddos.py
         ;;
     3)
-        bash port-scanner.sh
+        bash quicknmap.sh
         ;;
     4)
         bash kali-tools.sh
