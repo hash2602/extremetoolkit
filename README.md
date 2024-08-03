@@ -23,15 +23,20 @@ Fast and Quick NG Tools
 
 # HOW TO DOWNLOAD
 
-```
+```bash
 git clone github.com/hash2602/extremetoolkit
 ```
-```
+```bash
 cd extremetoolkit
 ```
-```
+```bash
 chmod +x bash.sh
 ```
+```bash
+bash main.sh
+```
+
+**NOTE: JUST USE FOR ETHICAL ISSUES**
 ```
 bash main.sh
 ```
